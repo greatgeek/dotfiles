@@ -1,6 +1,6 @@
 [user]
-	email = Your email
-	name = Your name
+	email = Your_email
+	name = Your_name
 [alias]
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 	st = status
